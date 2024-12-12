@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <br>
             <span class="glitch">- ca    : Reveal Coin Contract Address</span>
             <br>
-            <span class="glitch">- pump  : PumpFun Market Link</span>
+            <span class="glitch">- nemesis  : Just text it </span>
             <br>
             <span class="glitch">- x     : Social Media Infiltration Point</span>
             <br>
