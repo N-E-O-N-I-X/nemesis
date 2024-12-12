@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
         switch(command) {
             case 'ca':
-                response = 'Coin CA: ...';
+                response = 'Coin CA: 91HTBg6xtcoo87otZ6ZMFsGhtwYjgFFYm1Fiv41ypump';
                 break;
             case 'x':
                 response = 'X Link: https://x.com/NEMESIS_TERM';
