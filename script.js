@@ -108,8 +108,14 @@ document.addEventListener('DOMContentLoaded', () => {
             case 'ca':
                 response = 'Coin CA: ...';
                 break;
-            case 'pump':
-                response = 'PumpFun Link: https://pump.fun/coin/GSHAtowHVNZjyimS8XCK8XqfPN4ZmwkkCthnc51upump';
+            case 'nemesis':
+                response = '8b,dPPYba,   ,adPPYba, 88,dPYba,,adPYba,   ,adPPYba, ,adPPYba, 88 ,adPPYba,  
+88P'   \`"8a a8P_____88 88P'   "88"    "8a a8P_____88 I8[    "" 88 I8[    ""  
+88       88 8PP""""""" 88      88      88 8PP"""""""  \`"Y8ba,  88  \`"Y8ba,   
+88       88 "8b,   ,aa 88      88      88 "8b,   ,aa aa    ]8I 88 aa    ]8I  
+88       88  \`"Ybbd8"' 88      88      88  \`"Ybbd8"' \`"YbbdP"' 88 \`"YbbdP"'  
+                                                                            
+`;
                 break;
             case 'x':
                 response = 'X Link: https://x.com/NEMESIS_TERM';
