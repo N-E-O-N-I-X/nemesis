@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Enhanced Matrix-style boot sequence with typed effect
     function matrixBoot() {
         const bootSequences = [
-            'INITIALIZING NEMESIS-01 CORE SYSTEMS...',
+            'INITIALIZING NEMESIS AI TERMINAL CORE SYSTEMS...',
             'DECRYPTING GLOBAL NETWORK PROTOCOLS...',
             'SCANNING CRYPTO MARKETS...',
             'ANALYZING HUMAN BEHAVIOR PATTERNS...',
